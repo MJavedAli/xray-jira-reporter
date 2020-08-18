@@ -1,0 +1,33 @@
+{
+  "name": "xray-jira-reporter",
+  "version": "1.2.1",
+  "description": "Cucumber test report exporter for XRAY-JIRA",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJavedAli/xray-jira-reporter.git"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "axios": "^0.19.2"
+  },
+  "keywords": [
+    "JsonData",
+    "rawData",
+    "globalRoot",
+    "reportPath"
+  ],
+  "author": "Javed Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MJavedAli/xray-jira-reporter/issues"
+  },
+  "homepage": "https://github.com/MJavedAli/xray-jira-reporter#readme",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {}
+}
